@@ -2,13 +2,13 @@
 
 ### 系统安装：无屏幕无键鼠无网线无HDMI，自动激活ssh和wifi
 
-> - 树莓派
+> - 树莓派3B
 > - SD卡，读卡器
 > - wifi环境（文中所有涉及网络操作的设备必须连入同一wifi）
 > - 运行Mac OS的电脑
 > - 手机（非必需）
 
-1. 官网下载镜像并解压：https://www.raspberrypi.org/downloads/raspbian/，建议选择带桌面和常用软件的版本
+1. 官网下载镜像并解压，建议选择带桌面及常用软件的版本：https://www.raspberrypi.org/downloads/raspbian/
 
 2. 格式化SD卡，命名保持默认即可，格式为**MS-DOS(FAT)**，方案为**主引导记录**
 
